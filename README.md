@@ -29,16 +29,16 @@ SPRING BOOT, HTML, CSS, BOOTSTRAP, ANGULAR, REST APIs.
 # PROJECT SCREENSHOTS
 1. HOME PAGE
 
-                          ![image](https://github.com/user-attachments/assets/33b43dab-bad5-48bb-b14b-f491984256fc)
+    ![image](https://github.com/user-attachments/assets/33b43dab-bad5-48bb-b14b-f491984256fc)
 
 2. ADD NEW EMPLOYEE
 
-                          ![image](https://github.com/user-attachments/assets/087f688f-841f-4151-b9e2-d94d26cd607e)
+    ![image](https://github.com/user-attachments/assets/087f688f-841f-4151-b9e2-d94d26cd607e)
 
 3. EMPLOYEE LIST
 
-                          ![image](https://github.com/user-attachments/assets/f90079b6-dfbf-45d4-a017-79eee9614cea)
+    ![image](https://github.com/user-attachments/assets/f90079b6-dfbf-45d4-a017-79eee9614cea)
 
 4. EMPLOYEE DETAILS PAGE
 
-                          ![image](https://github.com/user-attachments/assets/d5781660-9f5b-4168-bed8-a186fc22097a)
+    ![image](https://github.com/user-attachments/assets/d5781660-9f5b-4168-bed8-a186fc22097a)
